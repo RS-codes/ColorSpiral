@@ -10,3 +10,4 @@ added 6_CircleSpiral_version1
 added 7_SquareSpiral_version3
 added 8_ColorSquareSpiral_version1
 added 9_ColorCircleSpiral_version1
+added 10_ColorSpiral_version1
